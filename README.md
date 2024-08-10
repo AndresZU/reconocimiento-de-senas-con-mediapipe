@@ -96,7 +96,7 @@ Al reconocimiento de señales con las manos y el reconocimiento de gestos con lo
 #### 1.Recoleccion de datos
 Presione "k" para entrar al modo de deteccion（Demostrado por 「MODE:Logging Key Point」）<br>
 <img src="https://user-images.githubusercontent.com/37477845/102235423-aa6cb680-3f35-11eb-8ebd-5d823e211447.jpg" width="60%"><br><br>
-Si preciona los numeros del "0" al "9", los datos van a ser agregados al "model/keypoint_classifier/keypoint.csv" como se muestra abajo.<br>
+Si presiona los numeros del "0" al "9", los datos van a ser agregados al "model/keypoint_classifier/keypoint.csv" como se muestra abajo.<br>
 La primera columna: El numero presionado (Utilizado como ID), La segunda y siguientes columnas: Las coordenadas de los puntos claves de la mano<br>
 <img src="https://user-images.githubusercontent.com/37477845/102345725-28d26280-3fe1-11eb-9eeb-8c938e3f625b.png" width="80%"><br><br>
 Las coordenadas de los puntos clave han sido transformadas de la siguiente forma hasta el ④.<br>
