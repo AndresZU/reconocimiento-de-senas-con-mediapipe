@@ -104,7 +104,6 @@ Las coordenadas de los puntos clave han sido transformadas de la siguiente forma
 <img src="https://user-images.githubusercontent.com/37477845/102244114-418a3c00-3f3f-11eb-8eef-f658e5aa2d0d.png" width="80%"><br><br>
 En su estado inicial, 3 señas de LESCO vienen incluidas en el proyecto: Letra A (class ID: 0), Letra B (class ID: 1), y dinamico (class ID: 2).<br>
 De ser necesario, se pueden agregar datos despues de 3, o se pueden eliminar los existentes y comenzar desde 0<br>
-<img src="https://user-images.githubusercontent.com/37477845/102348846-d0519400-3fe5-11eb-8789-2e7daec65751.jpg" width="25%">　<img src="https://user-images.githubusercontent.com/37477845/102348855-d2b3ee00-3fe5-11eb-9c6d-b8924092a6d8.jpg" width="25%">　<img src="https://user-images.githubusercontent.com/37477845/102348861-d3e51b00-3fe5-11eb-8b07-adc08a48a760.jpg" width="25%">
 <img width="25%" alt="Letra A" src="https://github.com/user-attachments/assets/8b6cc300-321d-4635-9bc3-0a4b613201db"> <img width="25%" alt="Letra B" src="https://github.com/user-attachments/assets/6deebe03-b519-4e0f-b60c-489d08cd69cf">  <img width="25%" alt="Dinamico" src="https://github.com/user-attachments/assets/5a990ccc-53ac-493d-8c96-f0d9032b66e3">
 
 
@@ -127,7 +126,10 @@ Las coordenadas de los puntos claves tuvieron la siguiente transformacion hasta 
 <img src="https://user-images.githubusercontent.com/37477845/102244148-49e27700-3f3f-11eb-82e2-fc7de42b30fc.png" width="80%"><br><br>
 En su estado inicial, se incluyen 3 tipos de datos de entrenamiento: Letra Z (class ID: 0), Rotacion reloj (class ID: 1) y Rotacion reloj inversa (class ID: 2). <br>
 De ser necesario, se puede agregar mas datos a partir del 3, o se puede borrar lo existente y entrenar desde 0.<br>
-<img src="https://user-images.githubusercontent.com/37477845/102350939-02b0c080-3fe9-11eb-94d8-54a3decdeebc.jpg" width="20%">　<img src="https://user-images.githubusercontent.com/37477845/102350945-05131a80-3fe9-11eb-904c-a1ec573a5c7d.jpg" width="20%">　<img src="https://user-images.githubusercontent.com/37477845/102350951-06444780-3fe9-11eb-98cc-91e352edc23c.jpg" width="20%">　<img src="https://user-images.githubusercontent.com/37477845/102350942-047a8400-3fe9-11eb-9103-dbf383e67bf5.jpg" width="20%">
+<img width="25%" alt="Letra Z" src="https://github.com/user-attachments/assets/b6455e52-c2a0-4e84-9333-8756f8e82969"> <img width="25%" alt="Rotacion Reloj" src="https://github.com/user-attachments/assets/5b542912-a565-4ba6-aaa9-3718f0d5be77"> <img width="25%" alt="Rotacion reloj Inversa" src="https://github.com/user-attachments/assets/42b08258-770b-413b-ae20-2b8f9e92c27e">
+
+
+
 
 #### 2.Entrenamiento del modelo
 Abrir "[point_history_classification.ipynb](point_history_classification.ipynb)" en un Jupyter Notebook y ejecutar todas las celdas de arriba hacia abajo.<br>
