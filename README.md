@@ -105,6 +105,8 @@ Las coordenadas de los puntos clave han sido transformadas de la siguiente forma
 En su estado inicial, 3 señas de LESCO vienen incluidas en el proyecto: Letra A (class ID: 0), Letra B (class ID: 1), y dinamico (class ID: 2).<br>
 De ser necesario, se pueden agregar datos despues de 3, o se pueden eliminar los existentes y comenzar desde 0<br>
 <img src="https://user-images.githubusercontent.com/37477845/102348846-d0519400-3fe5-11eb-8789-2e7daec65751.jpg" width="25%">　<img src="https://user-images.githubusercontent.com/37477845/102348855-d2b3ee00-3fe5-11eb-9c6d-b8924092a6d8.jpg" width="25%">　<img src="https://user-images.githubusercontent.com/37477845/102348861-d3e51b00-3fe5-11eb-8b07-adc08a48a760.jpg" width="25%">
+<img width="25%" alt="Letra A" src="https://github.com/user-attachments/assets/8b6cc300-321d-4635-9bc3-0a4b613201db"> <img width="25%" alt="Letra B" src="https://github.com/user-attachments/assets/6deebe03-b519-4e0f-b60c-489d08cd69cf">  <img width="25%" alt="Dinamico" src="https://github.com/user-attachments/assets/5a990ccc-53ac-493d-8c96-f0d9032b66e3">
+
 
 #### 2.Entrenamiento del modelo
 Abrir "[keypoint_classification.ipynb](keypoint_classification.ipynb)" en un Jupyter Notebook y ejecutar todas las celdas de arriba hacia abajo.<br>
